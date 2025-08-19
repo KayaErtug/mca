@@ -5,6 +5,7 @@ import ErrorBoundary from "components/ErrorBoundary";
 import NotFound from "pages/NotFound";
 import LandingPage from './pages/landing-page';
 import UserRegistration from './pages/user-registration';
+import Dashboard from './pages/dashboard';
 
 const Routes = () => {
   return (

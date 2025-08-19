@@ -6,7 +6,7 @@ const SocialProof = () => {
   const testimonials = [
     {
       id: 1,
-      name: "Sarah Chen",
+      name: "Sarah Armstrong",
       role: "Crypto Investor",
       avatar: "https://randomuser.me/api/portraits/women/32.jpg",
       content: "The Maris Coin platform has exceeded my expectations. The referral system is transparent and the community is incredibly supportive. Can\'t wait for the official launch!",
@@ -18,16 +18,16 @@ const SocialProof = () => {
       name: "Michael Rodriguez",
       role: "NFT Collector",
       avatar: "https://randomuser.me/api/portraits/men/45.jpg",
-      content: "Early access to exclusive NFT collections has been amazing. The quality and authenticity verification process gives me confidence in my investments.",
+      content: "Maris Coin's referral program is truly great. The rewards I earn are a huge motivator, and it's a pleasure to be part of this community. What impressed me the most is the early access they provide to exclusive NFT collections. This puts me a step ahead of other platforms.",
       rating: 5,
       verified: true
     },
     {
       id: 3,
-      name: "Emma Thompson",
+      name: "Emma Brown",
       role: "Community Builder",
       avatar: "https://randomuser.me/api/portraits/women/28.jpg",
-      content: "I\'ve earned substantial rewards through the referral program. The platform makes it easy to track progress and the support team is always helpful.",
+      content: "As a newcomer to the crypto world, complex processes were intimidating. But Maris Coin simplified the journey for me with its clean interface and 24/7 support. They patiently answered every question and guided me in the right direction. It's truly a perfect platform for beginners.",
       rating: 5,
       verified: true
     }

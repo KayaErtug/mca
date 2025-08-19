@@ -11,9 +11,9 @@ const TokenStats = () => {
 
   const finalStats = {
     totalSupply: 1000000000,
-    communityMembers: 12547,
-    nftCollections: 25,
-    rewardsDistributed: 2500000
+    communityMembers: 34547,
+    nftCollections: 18,
+    rewardsDistributed: 25000000
   };
 
   // Animate numbers on component mount

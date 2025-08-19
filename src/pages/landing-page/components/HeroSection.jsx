@@ -135,7 +135,7 @@ const HeroSection = ({ isAuthenticated, onAuthAction }) => {
             </div>
             <div className="flex items-center space-x-2">
               <Icon name="Users" size={20} color="var(--color-primary)" />
-              <span className="text-sm text-muted-foreground">10,000+ Early Adopters</span>
+              <span className="text-sm text-muted-foreground">2,000+ Early Adopters</span>
             </div>
             <div className="flex items-center space-x-2">
               <Icon name="Award" size={20} color="var(--color-warning)" />
